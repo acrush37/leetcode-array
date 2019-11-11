@@ -42,6 +42,7 @@ Array
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](src/easy/PascalsTriangle.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](src/easy/MergeSortedArray.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](src/easy/PlusOne.java)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](src/easy/SearchInsertPosition.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](src/easy/RemoveElement.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](src/easy/RemoveDuplicatesFromSortedArray.java)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](src/easy/TwoSum.java)|Easy|
