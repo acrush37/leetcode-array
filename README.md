@@ -36,6 +36,7 @@ Array
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](src/easy/ContainsDuplicate.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](src/easy/MajorityElement.java)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](src/easy/TwoSumII.java)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](src/easy/PascalsTriangle.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](src/easy/MergeSortedArray.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](src/easy/PlusOne.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](src/easy/RemoveElement.java)|Easy|
