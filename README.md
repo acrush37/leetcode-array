@@ -9,7 +9,9 @@ Array
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Java](src/easy/RelativeSortArray.java)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Java](src/easy/DuplicateZeros.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](src/easy/HeightChecker.java)|Easy|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](src/easy/FindCommonCharacters.java)|Easy|
 |994|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](src/easy/FibonacciNumber.java)|Easy|
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Java](src/easy/SumOfEvenNumbersAfterQueries.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](src/easy/SquaresOfSortedArray.java)|Easy|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Java](src/easy/SortArrayByParityII.java)|Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/easy/SortArrayByParity.java)|Easy|
