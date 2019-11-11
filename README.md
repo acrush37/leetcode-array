@@ -25,6 +25,7 @@ Array
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/easy/ArrayPartitionI.java)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/easy/MaxConsecutiveOnes.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](src/easy/FindAllNumbersDisappearedInArray.java)|Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Java](src/easy/ThirdMaximumNumber.java)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](src/easy/MoveZeroes.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/easy/MissingNumber.java)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](src/easy/ContainsDuplicateII.java)|Easy|
