@@ -17,6 +17,7 @@ Array
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/easy/SortArrayByParity.java)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Java](src/easy/MonotonicArray.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](src/easy/FlippingAnImage.java)|Easy|
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Java](src/easy/LargestNumberAtLeastTwiceOfOthers.java)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](src/easy/FindPivotIndex.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Java](src/easy/LongestContinuousIncreasingSubsequence.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Java](src/easy/MaximumProductOfThreeNumbers.java)|Easy|
