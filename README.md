@@ -14,3 +14,4 @@ Array
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/easy/SortArrayByParity.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](src/easy/FlippingAnImage.java)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/easy/ArrayPartitionI.java)|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](src/easy/TwoSumII.java)|Easy|
