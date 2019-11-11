@@ -21,6 +21,7 @@ Array
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Java](src/easy/LargestNumberAtLeastTwiceOfOthers.java)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](src/easy/FindPivotIndex.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Java](src/easy/LongestContinuousIncreasingSubsequence.java)|Easy|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Java](src/easy/NonDecreasingArray.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Java](src/easy/MaximumProductOfThreeNumbers.java)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/easy/ArrayPartitionI.java)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/easy/MaxConsecutiveOnes.java)|Easy|
