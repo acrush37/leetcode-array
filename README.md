@@ -30,6 +30,7 @@ Array
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Java](src/easy/NonDecreasingArray.java)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](src/easy/MaximumAverageSubarrayI.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Java](src/easy/MaximumProductOfThreeNumbers.java)|Easy|
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](src/easy/CanPlaceFlowers.java)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/easy/ArrayPartitionI.java)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Java](src/easy/KDiffPairsInArray.java)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/easy/MaxConsecutiveOnes.java)|Easy|
