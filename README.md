@@ -25,6 +25,7 @@ Array
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Java](src/easy/MonotonicArray.java)|Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](src/easy/TransposeMatrix.java)|Easy|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Java](src/easy/MaximizeDistanceToClosestPerson.java)|Easy|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Java](src/easy/MagicSquaresInGrid.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](src/easy/FlippingAnImage.java)|Easy|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Java](src/easy/ToeplitzMatrix.java)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Java](src/easy/LargestNumberAtLeastTwiceOfOthers.java)|Easy|
