@@ -46,6 +46,7 @@ Array
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](src/easy/MissingNumber.java)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](src/easy/ContainsDuplicateII.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](src/easy/ContainsDuplicate.java)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](src/easy/RotateArray.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](src/easy/MajorityElement.java)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](src/easy/TwoSumII.java)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](src/easy/PascalsTriangleII.java)|Easy|
