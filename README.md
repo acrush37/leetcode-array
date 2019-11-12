@@ -13,6 +13,7 @@ Array
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Java](src/easy/DuplicateZeros.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](src/easy/HeightChecker.java)|Easy|
 |1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Java](src/easy/PartitionArrayIntoThreePartsWithEqualSum.java)|Easy|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](src/easy/PairsOfSongsWithTotalDurationsDivisibleBy60.java)|Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](src/easy/FindCommonCharacters.java)|Easy|
 |994|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](src/easy/FibonacciNumber.java)|Easy|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Java](src/easy/SumOfEvenNumbersAfterQueries.java)|Easy|
