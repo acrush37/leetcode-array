@@ -29,6 +29,7 @@ Array
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](src/easy/MaximumAverageSubarrayI.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Java](src/easy/MaximumProductOfThreeNumbers.java)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Java](src/easy/ArrayPartitionI.java)|Easy|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Java](src/easy/KDiffPairsInArray.java)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](src/easy/MaxConsecutiveOnes.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](src/easy/FindAllNumbersDisappearedInArray.java)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Java](src/easy/FindAllDuplicatesInArray.java)|Easy|
