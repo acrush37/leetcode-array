@@ -23,6 +23,7 @@ Array
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](src/easy/TransposeMatrix.java)|Easy|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Java](src/easy/MaximizeDistanceToClosestPerson.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](src/easy/FlippingAnImage.java)|Easy|
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Java](src/easy/ToeplitzMatrix.java)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Java](src/easy/LargestNumberAtLeastTwiceOfOthers.java)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](src/easy/FindPivotIndex.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Java](src/easy/LongestContinuousIncreasingSubsequence.java)|Easy|
