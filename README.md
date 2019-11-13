@@ -30,6 +30,7 @@ Array
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Java](src/easy/ToeplitzMatrix.java)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Java](src/easy/LargestNumberAtLeastTwiceOfOthers.java)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](src/easy/FindPivotIndex.java)|Easy|
+|717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Java](src/easy/OneAndTwoBitCharacters.java)|Easy|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Java](src/easy/DegreeOfnArray.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Java](src/easy/LongestContinuousIncreasingSubsequence.java)|Easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Java](src/easy/NonDecreasingArray.java)|Easy|
