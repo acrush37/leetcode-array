@@ -17,6 +17,7 @@ Array
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](src/easy/PairsOfSongsWithTotalDurationsDivisibleBy60.java)|Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](src/easy/FindCommonCharacters.java)|Easy|
 |994|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](src/easy/FibonacciNumber.java)|Easy|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](src/easy/AddToArrayFormOfInteger.java)|Easy|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Java](src/easy/SumOfEvenNumbersAfterQueries.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](src/easy/SquaresOfSortedArray.java)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Java](src/easy/ValidMountainArray.java)|Easy|
