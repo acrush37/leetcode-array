@@ -37,6 +37,7 @@ Array
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Java](src/easy/DegreeOfnArray.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Java](src/easy/LongestContinuousIncreasingSubsequence.java)|Easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Java](src/easy/NonDecreasingArray.java)|Easy|
+|661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Java](src/easy/ImageSmoother.java)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](src/easy/MaximumAverageSubarrayI.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Java](src/easy/MaximumProductOfThreeNumbers.java)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](src/easy/CanPlaceFlowers.java)|Easy|
