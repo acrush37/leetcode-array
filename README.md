@@ -26,6 +26,7 @@ Array
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[Java](src/easy/XOfKindInDeckOfCards.java)|Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](src/easy/SortArrayByParity.java)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Java](src/easy/MonotonicArray.java)|Easy|
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Java](src/easy/FairCandySwap.java)|Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](src/easy/TransposeMatrix.java)|Easy|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Java](src/easy/MaximizeDistanceToClosestPerson.java)|Easy|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Java](src/easy/MagicSquaresInGrid.java)|Easy|
