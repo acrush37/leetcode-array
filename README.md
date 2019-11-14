@@ -64,5 +64,6 @@ Array
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](src/easy/RemoveElement.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](src/easy/RemoveDuplicatesFromSortedArray.java)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](src/easy/TwoSum.java)|Easy|
+|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Java](src/medium/MinimumDominoRotationsForEqualRow.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/medium/FindTheDuplicateNumber.java)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](src/medium/ProductOfArrayExceptSelf.java)|Medium|
