@@ -6,6 +6,7 @@ Array
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Java](src/easy/CellsWithOddValuesInMatrix.java)|Easy|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Java](src/easy/CheckIfItIsStraightLine.java)|Easy|
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Java](src/easy/MinimumAbsoluteDifference.java)|Easy|
+|1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[Java](src/easy/DayOfTheWeek.java)|Easy|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Java](src/easy/DistanceBetweenBusStops.java)|Easy|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Java](src/easy/CompareStringsByFrequencyOfSmallestCharacter.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Java](src/easy/FindWordsThatCanBeFormedByCharacters.java)|Easy|
