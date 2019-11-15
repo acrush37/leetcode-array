@@ -75,3 +75,4 @@ Array
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/medium/FindTheDuplicateNumber.java)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](src/medium/ProductOfArrayExceptSelf.java)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](src/medium/RemoveDuplicatesFromSortedArrayII.java)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](src/medium/ThreeSumClosest.java)|Medium|
