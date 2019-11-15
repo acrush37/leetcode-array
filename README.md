@@ -71,6 +71,7 @@ Array
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](src/medium/MaximumSumOfTwoNonOverlappingSubarrays.java)|Medium|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Java](src/medium/MinimumDominoRotationsForEqualRow.java)|Medium|
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Java](src/medium/MinimumIncrementToMakeArrayUnique.java)|Medium|
+|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](src/medium/ValidTriangleNumber.java)|Medium|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[Java](src/medium/ArrayNesting.java)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](src/medium/InsertDeleteGetRandomO1.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/medium/FindTheDuplicateNumber.java)|Medium|
