@@ -70,7 +70,9 @@ Array
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](src/easy/TwoSum.java)|Easy|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](src/medium/MaximumSumOfTwoNonOverlappingSubarrays.java)|Medium|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Java](src/medium/MinimumDominoRotationsForEqualRow.java)|Medium|
+|769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Java](src/medium/MaxChunksToMakeSorted.java)|Medium|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[Java](src/medium/ArrayNesting.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/medium/FindTheDuplicateNumber.java)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](src/medium/ProductOfArrayExceptSelf.java)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](src/medium/RemoveDuplicatesFromSortedArrayII.java)|Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](src/medium/FindFirstAndLastPositionOfElementInSortedArray.java)|Medium|
