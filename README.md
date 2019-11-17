@@ -79,5 +79,6 @@ Array
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](src/medium/ProductOfArrayExceptSelf.java)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](src/medium/RemoveDuplicatesFromSortedArrayII.java)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](src/medium/FindFirstAndLastPositionOfElementInSortedArray.java)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](src/medium/SearchInRotatedSortedArray.java)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](src/medium/NextPermutation.java)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](src/medium/ThreeSumClosest.java)|Medium|
