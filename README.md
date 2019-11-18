@@ -74,6 +74,7 @@ Array
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Java](src/medium/MinimumIncrementToMakeArrayUnique.java)|Medium|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Java](src/medium/PartitionArrayIntoDisjointIntervals.java)|Medium|
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Java](src/medium/MaxChunksToMakeSorted.java)|Medium|
+|729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Java](src/medium/MyCalendarI.java)|Medium|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](src/medium/ValidTriangleNumber.java)|Medium|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[Java](src/medium/ArrayNesting.java)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](src/medium/InsertDeleteGetRandomO1.java)|Medium|
