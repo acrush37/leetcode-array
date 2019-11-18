@@ -83,6 +83,7 @@ Array
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](src/medium/ProductOfArrayExceptSelf.java)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Java](src/medium/MajorityElementII.java)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](src/medium/SummaryRanges.java)|Medium|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](src/medium/FindPeakElement.java)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](src/medium/FindMinimumInRotatedSortedArray.java)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](src/medium/RemoveDuplicatesFromSortedArrayII.java)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](src/medium/JumpGame.java)|Medium|
