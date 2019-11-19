@@ -3,6 +3,32 @@ Array
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](src/hard/FirstMissingPositive.java)|Hard|
+|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](src/medium/MaximumSumOfTwoNonOverlappingSubarrays.java)|Medium|
+|1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Java](src/medium/BestSightseeingPair.java)|Medium|
+|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Java](src/medium/MinimumDominoRotationsForEqualRow.java)|Medium|
+|962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Java](src/medium/MaximumWidthRamp.java)|Medium|
+|945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Java](src/medium/MinimumIncrementToMakeArrayUnique.java)|Medium|
+|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Java](src/medium/PartitionArrayIntoDisjointIntervals.java)|Medium|
+|769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Java](src/medium/MaxChunksToMakeSorted.java)|Medium|
+|729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Java](src/medium/MyCalendarI.java)|Medium|
+|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Java](src/medium/MaximumSwap.java)|Medium|
+|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](src/medium/ValidTriangleNumber.java)|Medium|
+|565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[Java](src/medium/ArrayNesting.java)|Medium|
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](src/medium/InsertDeleteGetRandomO1.java)|Medium|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/medium/FindTheDuplicateNumber.java)|Medium|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](src/medium/ProductOfArrayExceptSelf.java)|Medium|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Java](src/medium/MajorityElementII.java)|Medium|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](src/medium/SummaryRanges.java)|Medium|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](src/medium/FindPeakElement.java)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](src/medium/FindMinimumInRotatedSortedArray.java)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](src/medium/RemoveDuplicatesFromSortedArrayII.java)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](src/medium/JumpGame.java)|Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](src/medium/FindFirstAndLastPositionOfElementInSortedArray.java)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](src/medium/SearchInRotatedSortedArray.java)|Medium|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](src/medium/NextPermutation.java)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](src/medium/ThreeSumClosest.java)|Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](src/medium/ContainerWithMostWater.java)|Medium|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Java](src/easy/CellsWithOddValuesInMatrix.java)|Easy|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Java](src/easy/CheckIfItIsStraightLine.java)|Easy|
 |1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[Java](src/easy/PlayWithChips.java)|Easy|
@@ -68,28 +94,3 @@ Array
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](src/easy/RemoveElement.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](src/easy/RemoveDuplicatesFromSortedArray.java)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](src/easy/TwoSum.java)|Easy|
-|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](src/medium/MaximumSumOfTwoNonOverlappingSubarrays.java)|Medium|
-|1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Java](src/medium/BestSightseeingPair.java)|Medium|
-|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Java](src/medium/MinimumDominoRotationsForEqualRow.java)|Medium|
-|962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Java](src/medium/MaximumWidthRamp.java)|Medium|
-|945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Java](src/medium/MinimumIncrementToMakeArrayUnique.java)|Medium|
-|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Java](src/medium/PartitionArrayIntoDisjointIntervals.java)|Medium|
-|769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Java](src/medium/MaxChunksToMakeSorted.java)|Medium|
-|729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Java](src/medium/MyCalendarI.java)|Medium|
-|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Java](src/medium/MaximumSwap.java)|Medium|
-|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](src/medium/ValidTriangleNumber.java)|Medium|
-|565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[Java](src/medium/ArrayNesting.java)|Medium|
-|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](src/medium/InsertDeleteGetRandomO1.java)|Medium|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](src/medium/FindTheDuplicateNumber.java)|Medium|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](src/medium/ProductOfArrayExceptSelf.java)|Medium|
-|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Java](src/medium/MajorityElementII.java)|Medium|
-|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](src/medium/SummaryRanges.java)|Medium|
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](src/medium/FindPeakElement.java)|Medium|
-|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](src/medium/FindMinimumInRotatedSortedArray.java)|Medium|
-|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](src/medium/RemoveDuplicatesFromSortedArrayII.java)|Medium|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](src/medium/JumpGame.java)|Medium|
-|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](src/medium/FindFirstAndLastPositionOfElementInSortedArray.java)|Medium|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](src/medium/SearchInRotatedSortedArray.java)|Medium|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](src/medium/NextPermutation.java)|Medium|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](src/medium/ThreeSumClosest.java)|Medium|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](src/medium/ContainerWithMostWater.java)|Medium|
