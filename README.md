@@ -30,6 +30,7 @@ Array
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](src/medium/ThreeSumClosest.java)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](src/medium/ThreeSum.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](src/medium/ContainerWithMostWater.java)|Medium|
+|1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Java](src/easy/ElementAppearingMoreThan25PercentInSortedArray.java)|Easy|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Java](src/easy/CellsWithOddValuesInMatrix.java)|Easy|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Java](src/easy/CheckIfItIsStraightLine.java)|Easy|
 |1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/)|[Java](src/easy/PlayWithChips.java)|Easy|
