@@ -31,6 +31,7 @@ Array
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](src/medium/ThreeSum.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](src/medium/ContainerWithMostWater.java)|Medium|
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Java](src/easy/ElementAppearingMoreThan25PercentInSortedArray.java)|Easy|
+|1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Java](src/easy/FindWinnerOnTicTacToeGame.java)|Easy|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Java](src/easy/MinimumTimeVisitingAllPoints.java)|Easy|
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Java](src/easy/Shift2DGrid.java)|Easy|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Java](src/easy/CellsWithOddValuesInMatrix.java)|Easy|
