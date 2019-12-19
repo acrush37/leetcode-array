@@ -9,6 +9,7 @@ Array
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Java](src/medium/MinimumDominoRotationsForEqualRow.java)|Medium|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Java](src/medium/MaximumWidthRamp.java)|Medium|
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Java](src/medium/MinimumIncrementToMakeArrayUnique.java)|Medium|
+|918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](src/medium/MaximumSumCircularSubarray.java)|Medium|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Java](src/medium/PartitionArrayIntoDisjointIntervals.java)|Medium|
 |907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Java](src/medium/SumOfSubarrayMinimums.java)|Medium|
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Java](src/medium/NumberOfSubarraysWithBoundedMaximum.java)|Medium|
