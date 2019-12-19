@@ -3,6 +3,7 @@ Array
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](src/hard/FindMinimumInRotatedSortedArrayII.java)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](src/hard/FirstMissingPositive.java)|Hard|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](src/medium/MaximumSumOfTwoNonOverlappingSubarrays.java)|Medium|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Java](src/medium/BestSightseeingPair.java)|Medium|
