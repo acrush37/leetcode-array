@@ -8,6 +8,7 @@ Array
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](src/medium/MaximumSumOfTwoNonOverlappingSubarrays.java)|Medium|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Java](src/medium/BestSightseeingPair.java)|Medium|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Java](src/medium/MinimumDominoRotationsForEqualRow.java)|Medium|
+|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Java](src/medium/SubarraySumsDivisibleByK.java)|Medium|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Java](src/medium/MaximumWidthRamp.java)|Medium|
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Java](src/medium/MinimumIncrementToMakeArrayUnique.java)|Medium|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](src/medium/MaximumSumCircularSubarray.java)|Medium|
