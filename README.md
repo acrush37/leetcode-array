@@ -40,6 +40,7 @@ Array
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](src/medium/ThreeSumClosest.java)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](src/medium/ThreeSum.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](src/medium/ContainerWithMostWater.java)|Medium|
+|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Java](src/easy/ReplaceElementsWithGreatestElementOnRightSide.java)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Java](src/easy/FindNumbersWithEvenNumberOfDigits.java)|Easy|
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Java](src/easy/ElementAppearingMoreThan25PercentInSortedArray.java)|Easy|
 |1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Java](src/easy/FindWinnerOnTicTacToeGame.java)|Easy|
