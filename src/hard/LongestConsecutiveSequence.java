@@ -40,7 +40,6 @@ public class LongestConsecutiveSequence {
             if (a[i] != a[i-1] + 1) count = 1;
             else result = Math.max(result, ++count);
 
-
         return result;
     }
 
