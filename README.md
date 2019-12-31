@@ -6,6 +6,7 @@ Array
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Java](src/hard/InsertDeleteGetRandomDuplicatesAllowed.java)|Hard|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](src/hard/FindMinimumInRotatedSortedArrayII.java)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](src/hard/FirstMissingPositive.java)|Hard|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](src/hard/MedianOfTwoSortedArrays.java)|Hard|
 |1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Java](src/medium/DivideArrayInSetsOfKConsecutiveNumbers.java)|Medium|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](src/medium/MaximumSumOfTwoNonOverlappingSubarrays.java)|Medium|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Java](src/medium/BestSightseeingPair.java)|Medium|
