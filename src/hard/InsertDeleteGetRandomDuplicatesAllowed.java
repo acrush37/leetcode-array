@@ -14,39 +14,53 @@ import java.util.*;
  */
 public class InsertDeleteGetRandomDuplicatesAllowed {
 
-    private int n = new Random().nextInt(100);
+    private Random random = new Random();
 
     private List<Integer> t = new ArrayList<>();
 
     private Map<Integer, List<Integer>> f = new HashMap<>();
 
+    public static void main(String... args) {
+
+        InsertDeleteGetRandomDuplicatesAllowed insertDeleteGetRandomDuplicatesAllowed = new InsertDeleteGetRandomDuplicatesAllowed();
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.insert(1));
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.insert(1));
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.insert(2));
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.insert(1));
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.insert(2));
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.remove(1));
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.remove(2));
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.remove(2));
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.getRandom());
+        System.out.println(insertDeleteGetRandomDuplicatesAllowed.getRandom());
+    }
+
     public boolean insert(int val) {
 
         List<Integer> x = f.get(val);
-        boolean flag = x == null;
-        if (flag) x = new ArrayList<>();
+        if (x == null) x = new ArrayList<>();
         x.add(t.size());
         f.put(val, x);
         t.add(val);
-        return flag;
+        return x.size() == 1;
     }
 
     public boolean remove(int val) {
 
         List<Integer> x = f.get(val);
-        if (x == null) return false;
-        int y = x.get(x.size()-1);
-        int z = t.size() - 1;
-        t.set(y, t.get(z));
-        t.remove(z);
-        x.remove(x.size()-1);
-        if (x.isEmpty()) f.remove(val);
-        else f.put(val, x);
+        if (x == null || x.isEmpty()) return false;
+        int y = x.get(x.size() - 1);
+        f.get(val).remove(x.size() - 1);
+        int z = t.get(t.size() - 1);
+        t.set(y, z);
+        f.get(z).add(y);
+        f.get(z).remove(Integer.valueOf(t.size() - 1));
+        t.remove(t.size() - 1);
         return true;
     }
 
     public int getRandom() {
-        return t.get(n++ % t.size());
+        return t.get(random.nextInt(t.size()));
     }
 
 }
