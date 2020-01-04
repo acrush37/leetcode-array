@@ -3,6 +3,7 @@ Array
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[Java](src/hard/FindKthSmallestPairDistance.java)|Hard|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Java](src/hard/InsertDeleteGetRandomDuplicatesAllowed.java)|Hard|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](src/hard/FindMinimumInRotatedSortedArrayII.java)|Hard|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](src/hard/LongestConsecutiveSequence.java)|Hard|
