@@ -16,6 +16,7 @@ Array
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Java](src/medium/SubarraySumsDivisibleByK.java)|Medium|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Java](src/medium/MaximumWidthRamp.java)|Medium|
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Java](src/medium/ArrayOfDoubledPairs.java)|Medium|
+|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|[Java](src/medium/RevealCardsInIncreasingOrder.java)|Medium|
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Java](src/medium/MinimumIncrementToMakeArrayUnique.java)|Medium|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](src/medium/MaximumSumCircularSubarray.java)|Medium|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Java](src/medium/PartitionArrayIntoDisjointIntervals.java)|Medium|
