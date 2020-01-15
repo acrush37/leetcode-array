@@ -18,6 +18,7 @@ Array
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Java](src/medium/ArrayOfDoubledPairs.java)|Medium|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|[Java](src/medium/RevealCardsInIncreasingOrder.java)|Medium|
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|[Java](src/medium/MinimumIncrementToMakeArrayUnique.java)|Medium|
+|926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Java](src/medium/FlipStringToMonotoneIncreasing.java)|Medium|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](src/medium/MaximumSumCircularSubarray.java)|Medium|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Java](src/medium/PartitionArrayIntoDisjointIntervals.java)|Medium|
 |907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Java](src/medium/SumOfSubarrayMinimums.java)|Medium|
