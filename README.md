@@ -69,6 +69,7 @@ Array
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Java](src/easy/RelativeSortArray.java)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Java](src/easy/DuplicateZeros.java)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](src/easy/HeightChecker.java)|Easy|
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Java](src/easy/BinaryPrefixDivisibleBy5.java)|Easy|
 |1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Java](src/easy/PartitionArrayIntoThreePartsWithEqualSum.java)|Easy|
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](src/easy/PairsOfSongsWithTotalDurationsDivisibleBy60.java)|Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](src/easy/FindCommonCharacters.java)|Easy|
