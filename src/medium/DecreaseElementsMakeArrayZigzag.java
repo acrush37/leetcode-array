@@ -23,8 +23,27 @@ public class DecreaseElementsMakeArrayZigzag {
     public int movesToMakeZigzag(int[] nums) {
 
         int x = 0, y = 0, n = nums.length;
+        if (n <= 2) return 0;
         int[] a = Arrays.copyOf(nums, n);
-        
+
+        for (int i = 1; i < n; i++)
+            if ((i & 1) == 0) {
+
+                if (nums[i] <= nums[i-1]) y += nums[i-1] - nums[i] + 1;
+
+                if (a[i] >= a[i-1]) {
+                    x += a[i] - a[i-1] + 1;
+                    a[i] = a[i-1] - 1;
+                }
+            } else {
+
+                if (a[i] <= a[i-1]) x += a[i-1] - a[i] + 1;
+
+                if (nums[i] >= nums[i-1]) {
+                    y += nums[i] - nums[i-1] + 1;
+                    nums[i] = nums[i-1] - 1;
+                }
+            }
 
         return Math.min(x, y);
     }
