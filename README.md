@@ -50,6 +50,7 @@ Array
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](src/medium/ThreeSumClosest.java)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](src/medium/ThreeSum.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](src/medium/ContainerWithMostWater.java)|Medium|
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Java](src/easy/RankTransformOfArray.java)|Easy|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](src/easy/DecompressRunLengthEncodedList.java)|Easy|
 |1303|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Java](src/easy/FindNUniqueIntegersSumUpToZero.java)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Java](src/easy/ReplaceElementsWithGreatestElementOnRightSide.java)|Easy|
