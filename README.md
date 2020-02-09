@@ -10,6 +10,7 @@ Array
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Java](src/hard/InsertInterval.java)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](src/hard/FirstMissingPositive.java)|Hard|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](src/hard/MedianOfTwoSortedArrays.java)|Hard|
+|1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|[Java](src/medium/SubArraysOfSizeKAndAverageGreaterThanThreshold.java)|Medium|
 |1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Java](src/medium/DivideArrayInSetsOfKConsecutiveNumbers.java)|Medium|
 |1144|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/)|[Java](src/medium/DecreaseElementsMakeArrayZigzag.java)|Medium|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](src/medium/MaximumSumOfTwoNonOverlappingSubarrays.java)|Medium|
