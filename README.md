@@ -13,6 +13,7 @@ Array
 |1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|[Java](src/medium/SubArraysOfSizeKAndAverageGreaterThanThreshold.java)|Medium|
 |1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Java](src/medium/DivideArrayInSetsOfKConsecutiveNumbers.java)|Medium|
 |1144|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/)|[Java](src/medium/DecreaseElementsMakeArrayZigzag.java)|Medium|
+|1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Java](src/medium/UncrossedLines.java)|Medium|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](src/medium/MaximumSumOfTwoNonOverlappingSubarrays.java)|Medium|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Java](src/medium/BestSightseeingPair.java)|Medium|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Java](src/medium/MinimumDominoRotationsForEqualRow.java)|Medium|
