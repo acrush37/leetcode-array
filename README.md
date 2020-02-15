@@ -48,6 +48,7 @@ Array
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](src/medium/SetMatrixZeroes.java)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](src/medium/SpiralMatrixII.java)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](src/medium/JumpGame.java)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](src/medium/RotateImage.java)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](src/medium/FindFirstAndLastPositionOfElementInSortedArray.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](src/medium/SearchInRotatedSortedArray.java)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](src/medium/NextPermutation.java)|Medium|
