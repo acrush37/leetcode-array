@@ -19,6 +19,7 @@ Array
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Java](src/medium/BestSightseeingPair.java)|Medium|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Java](src/medium/MinimumDominoRotationsForEqualRow.java)|Medium|
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Java](src/medium/SubarraySumsDivisibleByK.java)|Medium|
+|969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Java](src/medium/PancakeSorting.java)|Medium|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Java](src/medium/MaximumWidthRamp.java)|Medium|
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Java](src/medium/ArrayOfDoubledPairs.java)|Medium|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|[Java](src/medium/RevealCardsInIncreasingOrder.java)|Medium|
