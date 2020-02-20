@@ -35,6 +35,7 @@ Array
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Java](src/medium/MyCalendarI.java)|Medium|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Java](src/medium/SubarrayProductLessThanK.java)|Medium|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Java](src/medium/MaximumSwap.java)|Medium|
+|667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)|[Java](src/medium/BeautifulArrangementII.java)|Medium|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](src/medium/ValidTriangleNumber.java)|Medium|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[Java](src/medium/ArrayNesting.java)|Medium|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](src/medium/SubarraySumEqualsK.java)|Medium|
