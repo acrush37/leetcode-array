@@ -9,6 +9,7 @@ Array
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](src/hard/LongestConsecutiveSequence.java)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java](src/hard/LargestRectangleInHistogram.java)|Hard|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Java](src/hard/InsertInterval.java)|Hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](src/hard/TrappingRainWater.java)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](src/hard/FirstMissingPositive.java)|Hard|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](src/hard/MedianOfTwoSortedArrays.java)|Hard|
 |1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|[Java](src/medium/SubArraysOfSizeKAndAverageGreaterThanThreshold.java)|Medium|
